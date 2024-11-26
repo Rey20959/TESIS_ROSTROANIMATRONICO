@@ -1,0 +1,392 @@
+{
+    "Universidad": {
+        "Nombre": "Universidad del Valle de Guatemala",
+        "Ubicación": "Ciudad de Guatemala, Guatemala",
+        "Fundación": 1966,
+        "Lema": "Excelencia que Transforma",
+        "Sitio_Web": "https://www.uvg.edu.gt/",
+        "Facultades": [
+            {
+                "Nombre": "Facultad de Ingeniería",
+                "Departamentos": [
+                    {
+                        "Nombre": "Departamento de Ingeniería Mecatrónica, Electrónica y Biomédica",
+                        "Programas": [
+                            {
+                                "Grado": "Ingeniería en Mecatrónica",
+                                "Descripción": "Un programa que integra tecnologías mecánicas, electrónicas y de computación para crear soluciones innovadoras en automatización y robótica. Forma profesionales con alto nivel académico que analizan problemas de ingeniería, combinan información con conocimientos y sintetizan un plan estratégico para solucionarlos. Impulsa el desarrollo científico y tecnológico en Guatemala mediante la formación teórica y práctica en automatización, robótica, diseño mecánico y electrónico, sistemas de control, maquinaria inteligente e integración de sistemas.",
+                                "Definición": [
+                                    "Es un campo científico y tecnológico que combina diseño electrónico con diseño mecánico para crear integraciones de los denominados sistemas Meca-Trónicos. Tiene mucha relación con programación, principalmente a nivel de máquinas y circuitos, pues muchos de los sistemas mecatrónicos requieren inteligencia que les permita ser autónomos o realizar alguna acción específica como respuesta a su entorno. El programa tiene fuerte orientación a robótica y automatización. La mecatrónica cambia el mundo día a día a través de la creación de tecnologías que todos los seres humanos utilizamos."
+                                ],
+                                "Áreas_de_Investigación": [
+                                    "Robótica y Automatización",
+                                    "Sistemas Embebidos",
+                                    "Instrumentación Biomédica",
+                                    "Procesamiento de Señales",
+                                    "Sistemas de Control"
+                                ],
+                                "Áreas_de_Excelencia": [
+                                    "Automatización",
+                                    "Diseño mecánico y electrónico",
+                                    "Sistemas de control",
+                                    "Maquinaria inteligente",
+                                    "Integración de sistemas"
+                                ],
+                                "Competencias": [
+                                    "Pensamiento crítico y analítico",
+                                    "Comunicación efectiva",
+                                    "Trabajo en equipo",
+                                    "Resolución efectiva de problemas",
+                                    "Uso adecuado de la tecnología",
+                                    "Ejercicio de liderazgo",
+                                    "Actuación ética",
+                                    "Investigación en diferentes áreas del conocimiento",
+                                    "Aprendizaje autónomo",
+                                    "Actitud emprendedora e innovadora"
+                                ],
+                                "Áreas_de_Acción": [
+                                    "Investigación, planteamiento, planeación, desarrollo, simulación y manufactura de sistemas para optimizar procesos.",
+                                    "Servicio público, instituciones de investigación y docencia, industria en general, o como profesional independiente.",
+                                    "Diseño de componentes mecánicos y electrónicos e integración de ambos.",
+                                    "Sistemas de control.",
+                                    "Maquinaria inteligente.",
+                                    "Mantenimiento Industrial."
+                                ],
+                                "Desarrollo_de_Potencial": [
+                                    "Instrumentación y automatización industrial: Rama de la ingeniería civil que se ocupa del diseño y cálculo de la parte estructural en elementos y sistemas estructurales tales como edificios, puentes, muros, presas, túneles y otras obras civiles.",
+                                    "Diseño Electrónico: Diseñar y optimizar sistemas automatizados de producción industrial con base a sensores y actuadores electrónicos. Esto implica programación de equipos y dispositivos de control como computadores y PLCs, así como parametrización y configuración de electrónica de campo.",
+                                    "Diseño mecánico: Análisis y diseño de piezas mecánicas y mecanismos para sistemas robóticos. Aquí se analiza el comportamiento estático y dinámico de las piezas que conforman diseños mecánicos, los cuales combinados con diseño electrónico, producen sistemas mecatrónicos vanguardistas."
+                                ],
+                                "Perfil_del_Egresado": "El ingeniero en Mecatrónica es un profesional que diseña e implementa sistemas mecánicos y electrónicos (mecatrónicos) útiles en cualquier industria. Analiza, diseña y optimiza sistemas mecatrónicos, con competencias que permiten desempeñarse en diferentes áreas de la industria e investigación, tanto a nivel nacional como internacional.",
+                                "Plan_de_Estudios": {
+                                    "Año_1": [
+                                        "Requisito Inglés",
+                                        "Algoritmos y Programación Básica",
+                                        "Pensamiento Cuantitativo",
+                                        "Comunicación Efectiva",
+                                        "Introducción a la Ingeniería Electrónica y Mecatrónica",
+                                        "Coaching para la Excelencia",
+                                        "Química General",
+                                        "Ciudadanía Global",
+                                        "Dibujo Mecánico",
+                                        "Cálculo 1",
+                                        "Física 1",
+                                        "Álgebra Lineal 1",
+                                        "Guatemala en el Contexto Mundial",
+                                        "Retos Ambientales y Sostenibilidad"
+                                    ],
+                                    "Año_2": [
+                                        "Estadística 1",
+                                        "Cálculo 2",
+                                        "Física 2",
+                                        "Circuitos Eléctricos 1",
+                                        "Máquinas Herramienta",
+                                        "Ciencia de los Materiales",
+                                        "Cálculo 3",
+                                        "Ecuaciones Diferenciales 1",
+                                        "Circuitos Eléctricos 2",
+                                        "Ecología para Todos",
+                                        "Electrónica Digital 1",
+                                        "Mecánica 1: Estática"
+                                    ],
+                                    "Año_3": [
+                                        "Investigación y Pensamiento Científico",
+                                        "Curso Selectivo (Formación General)",
+                                        "Programación de Microcontroladores",
+                                        "Mecánica 2: Dinámica",
+                                        "Resistencia de Materiales 1",
+                                        "Teoría Electromagnética 1",
+                                        "Curso Selectivo",
+                                        "Electrónica Analógica 1",
+                                        "Simulación de Circuitos y Fabricación de PCB",
+                                        "Ecuaciones Diferenciales 2",
+                                        "Emprendimiento e Innovación",
+                                        "Resistencia de Materiales 2"
+                                    ],
+                                    "Año_4": [
+                                        "Instrumentación y Automatización Industrial 1",
+                                        "Procesamiento de Señales",
+                                        "Diseño de Ingeniería Mecánica 1",
+                                        "Instalaciones Eléctricas",
+                                        "Electrónica Digital 2",
+                                        "Termodinámica y Mecánica de Fluidos",
+                                        "Sistemas de Control 1",
+                                        "Instrumentación y Automatización Industrial 2",
+                                        "Diseño de Ingeniería Mecánica 2",
+                                        "Mecanismos",
+                                        "Temas Especiales de Ingeniería Electrónica y Mecatrónica 1",
+                                        "Métodos Numéricos 1"
+                                    ],
+                                    "Año_5": [
+                                        "Introducción a Máquinas Eléctricas",
+                                        "Sistemas Hidráulicos y Neumáticos",
+                                        "Economía de Empresas",
+                                        "Sistemas de Control 2",
+                                        "Robótica 1",
+                                        "Práctica profesional",
+                                        "Diseño e Innovación en Ingeniería 1",
+                                        "Robótica 2",
+                                        "Ingeniería Económica",
+                                        "Introducción a Diseño y Manufactura CAD CAM",
+                                        "Gestión de Proyectos",
+                                        "Diseño e Innovación en Ingeniería 2",
+                                        "Trabajo de graduación"
+                                    ]
+                                }
+                            },
+                            {
+                                "Grado": "Ingeniería en Electrónica",
+                                "Descripcion": "La Ingeniería Electrónica es el campo del conocimiento que diseña la esencia de todas las tecnologías que hacen funcionar al mundo en la actualidad. Es el campo que ha provocado la tercera revolución industrial (la actual). Incorpora los fundamentos del diseño electrónico analógico y digital con diversas tecnologías vanguardistas, análisis y diseño de sistemas de telecomunicaciones cableadas e inalámbricas, y diseño de sistemas nanoelectrónicos.",
+                                "Campo_de_Servicio": "La ingeniería electrónica es en realidad un campo de absoluto servicio a las demás disciplinas, pues representa al productor de tecnologías que crean herramientas para la operación, investigación y desarrollo en todas las áreas del conocimiento, mejorando la calidad de vida mediante sistemas de telecomunicaciones, equipos biomédicos y equipos electrónicos de consumo.",
+                                "Enfoque_del_Programa": "El programa de Ingeniería Electrónica está diseñado con un enfoque intenso tanto en teoría como en práctica, razón por la cual consiste en diversas áreas curriculares y ejes transversales desarrollados a través de iniciativas académicas que incluyen laboratorios, trabajo en equipo y metodología orientada a proyectos y realización de diseños de ingeniería funcionales.",
+                                "Desarrollo_de_Potencial": [
+                                    {
+                                        "Area": "Redes y Telecomunicaciones",
+                                        "Descripcion": "Infraestructura y tecnología que soporta a todos los sistemas de comunicaciones digitales en el mundo actual, abarcando desde la temática de redes de datos en su nivel fundamental hasta llegar a las tecnologías y plataformas de telecomunicaciones, en sus diversas generaciones, utilizadas en todo el mundo."
+                                    },
+                                    {
+                                        "Area": "Diseño Electrónico",
+                                        "Descripcion": "Desarrollo de hardware, firmware y software con el fin de proveer soluciones a una amplia variedad de problemáticas. Abarca desde el conocimiento de componentes electrónicos y sus diversas interconexiones hasta la programación del conjunto de instrucciones que regirán el comportamiento de un sistema electrónico completo, fabricación de tarjetas electrónicas y el uso de tecnología nanoelectrónica."
+                                    },
+                                    {
+                                        "Area": "Instrumentación y Automatización Industrial",
+                                        "Descripcion": "Se refiere a todo el equipo electrónico diseñado e implementado para el control automático de procesos industriales de gran escala. Incluye mediciones de variables físicas para digitalizarlas e interconectarlas con controladores, optimizando el desempeño y la estabilidad del proceso."
+                                    }
+                                ],
+                                "Lineas_de_Investigacion_y_Proyectos": [
+                                    "Diseño del primer nanochip en la historia de Guatemala (de hecho el primero para casi toda Latinoamérica).",
+                                    "Diseño de neuroestimulador para pacientes con epilepsia (en conjunto con el Centro de Epilepsia y Neurocirugía Funcional – HUMANA).",
+                                    "Modelaje matemático para aplicaciones de emulación y procesamiento de señales de audio."
+                                ],
+                                "Perfil_del_Egresado": [
+                                    "Formar profesionales con alto nivel académico que analicen un problema de ingeniería, combinen la información del problema con sus conocimientos, y, aplicando sus competencias, sintetizan un plan estratégico que le dé solución.",
+                                    "Formar profesionales con sólida base que les permita fácil integración a universidades extranjeras para estudios de posgrado en las diversas áreas de la ingeniería.",
+                                    "Impulsar el desarrollo científico y tecnológico en Guatemala a través de la formación teórica y práctica de profesionales en este campo pilar de la era digital.",
+                                    "Formar ingenieros competentes para administrar eficientemente los recursos electrónicos de Guatemala y aportar al desarrollo de nuevas tecnologías.",
+                                    "Brindar al profesional egresado los fundamentos intelectuales y morales que le permitan ejercer liderazgo técnico y humano en la sociedad guatemalteca y extranjera."
+                                ],
+                                "Plan_de_Estudios": {
+                                    "Ano_1": [
+                                        "Requisito Inglés",
+                                        "Algoritmos y Programación Básica",
+                                        "Pensamiento Cuantitativo",
+                                        "Comunicación Efectiva",
+                                        "Coaching para la Excelencia",
+                                        "Química General",
+                                        "Introducción a la Ingeniería Electrónica y Mecatrónica",
+                                        "Ciudadanía Global",
+                                        "Cálculo 1",
+                                        "Física 1",
+                                        "Dibujo Mecánico",
+                                        "Álgebra Lineal 1",
+                                        "Ciencia de Materiales Electrónicos 1",
+                                        "Guatemala en el Contexto Mundial"
+                                    ],
+                                    "Ano_2": [
+                                        "Cálculo 2",
+                                        "Investigación y Pensamiento Científico",
+                                        "Estadística 2",
+                                        "Física 2",
+                                        "Circuitos Eléctricos 1",
+                                        "Retos Ambientales y Sostenibilidad",
+                                        "Circuitos Eléctricos 2",
+                                        "Ecuaciones Diferenciales 1",
+                                        "Cálculo 3",
+                                        "Electrónica Digital 1",
+                                        "Ecología para Todos",
+                                        "Mecánica: Estática y Dinámica"
+                                    ],
+                                    "Ano_3": [
+                                        "Emprendimiento e Innovación",
+                                        "Curso Selectivo (Formación General)",
+                                        "Electrónica Analógica 1",
+                                        "Simulación de Circuitos y Fabricación de PCB",
+                                        "Ecuaciones Diferenciales 2",
+                                        "Programación de Microcontroladores",
+                                        "Teoría Electromagnética 1",
+                                        "Electrónica Analógica 2",
+                                        "Electrónica Digital 2",
+                                        "Métodos Numéricos 1",
+                                        "Teoría Electromagnética 2"
+                                    ],
+                                    "Ano_4": [
+                                        "Economía de Empresas",
+                                        "Instrumentación y Automatización Industrial 1",
+                                        "Procesamiento de Señales",
+                                        "Electrónica Digital 3",
+                                        "Interconexión de Dispositivos para Redes",
+                                        "Temas Especiales en Ingeniería Electrónica y Mecatrónica 1",
+                                        "Instalaciones Eléctricas",
+                                        "Arquitectura de Computadores",
+                                        "Sistemas de Telecomunicaciones 1",
+                                        "Sistemas de Control 1",
+                                        "Instrumentación y Automatización Industrial 2",
+                                        "Nanoelectrónica 1"
+                                    ],
+                                    "Ano_5": [
+                                        "Redes de Telefonía Inalámbrica",
+                                        "Sistemas de Telecomunicaciones 2",
+                                        "Sistemas de Control 2",
+                                        "Temas Especiales de Ingeniería Electrónica y Mecatrónica 2",
+                                        "Nanoelectrónica 2",
+                                        "Práctica Profesional",
+                                        "Diseño e Innovación en Ingeniería 1",
+                                        "Sistemas de Telecomunicaciones 3",
+                                        "Ingeniería Económica",
+                                        "Gestión de Proyectos",
+                                        "Introducción a Máquinas Eléctricas",
+                                        "Diseño e Innovación en Ingeniería 2",
+                                        "Trabajo de graduación"
+                                    ]
+                                }
+                            },
+                            {
+                                "Grado": "Ingeniería Biomédica",
+                                "Descripción": "Un programa que aplica principios de ingeniería al campo médico, enfocándose en el desarrollo de tecnologías para el cuidado de la salud y dispositivos médicos.",
+                                "Definición": [
+                                    "La Ingeniería Biomédica forma profesionales con un alto nivel académico, teórico y práctico, capaces de analizar problemas de ingeniería, combinar información del problema con sus conocimientos y, a través de sus competencias, proporcionar soluciones innovadoras y efectivas."
+                                ],
+                                "Áreas_de_Investigación": [
+                                    "Fisiología: Estudio de los diversos mecanismos fisiológicos y anatómicos desde una perspectiva cuantitativa, lo que permite comprenderlos y modelarlos matemáticamente. Esto facilita el diseño de dispositivos electrónicos o robóticos para capturar información o interactuar con dichos mecanismos, comprendiendo su comportamiento e interacción, así como las características de las señales que pueden capturarse.",
+                                    "Robótica Médica: Diseño de robots con aplicaciones médicas asistenciales, desarrollando herramientas robotizadas basadas en las necesidades y requerimientos de diagnóstico, tratamiento, cirugía o rehabilitación. Conocer los mecanismos fisiológicos es crucial para crear diseños robóticos efectivos y adecuados.",
+                                    "Instrumentación y Dispositivos Médicos: Diseño y fabricación de instrumentos y dispositivos electrónicos para capturar información fisiológica, ya sea para procesamiento o análisis posterior o para estimular los mecanismos fisiológicos mediante señales de corriente, voltaje, frecuencia, campos eléctricos o magnéticos, entre otros, logrando influir en los procesos médicos según sea necesario."
+                                ],
+                                "Áreas_de_Excelencia": [
+                                    "Ingeniería de Rehabilitación: Desarrollo de tecnologías para mejorar la calidad de vida de personas con discapacidades, incluyendo prótesis, ortesis y dispositivos de asistencia.",
+                                    "Imágenes Médicas: Innovación en técnicas de captura y procesamiento de imágenes para diagnóstico y tratamiento médico.",
+                                    "Biomecánica: Aplicación de principios de mecánica a los sistemas biológicos para estudiar la función y el movimiento del cuerpo humano."
+                                ],
+                                "Competencias": [
+                                    "Análisis crítico y resolución de problemas complejos.",
+                                    "Diseño y desarrollo de dispositivos biomédicos.",
+                                    "Integración de tecnologías emergentes en aplicaciones médicas.",
+                                    "Comunicación efectiva y trabajo en equipos multidisciplinarios.",
+                                    "Conocimiento en normativas y regulación de dispositivos médicos."
+                                ],
+                                "Áreas_de_Acción": [
+                                    "Centros de Investigación Biomédica.",
+                                    "Industria de Dispositivos Médicos.",
+                                    "Hospitales y Centros de Salud.",
+                                    "Consultoría en Ingeniería Biomédica.",
+                                    "Docencia y Capacitación."
+                                ],
+                                "Desarrollo_de_Potencial": [
+                                    "Formación en innovación y emprendimiento tecnológico.",
+                                    "Participación en proyectos interdisciplinarios y colaboraciones internacionales.",
+                                    "Acceso a prácticas profesionales en hospitales y empresas de tecnología biomédica.",
+                                    "Capacitación en uso de herramientas y técnicas de última generación."
+                                ],
+                                "Plan_de_Estudios": {
+                                    "Año 1": [
+                                        "Requisito Inglés",
+                                        "Algoritmos y Programación Básica",
+                                        "Pensamiento Cuantitativo",
+                                        "Ciencias de la Vida",
+                                        "Coaching para la Excelencia",
+                                        "Química 1",
+                                        "Introducción a la Ingeniería Biomédica",
+                                        "Ciudadanía Global",
+                                        "Comunicación Efectiva",
+                                        "Dibujo Mecánico",
+                                        "Cálculo 1",
+                                        "Física 1",
+                                        "Química 2",
+                                        "Estadística 1"
+                                    ],
+                                    "Año 2": [
+                                        "Cálculo 2",
+                                        "Álgebra Lineal 1",
+                                        "Biomecánica",
+                                        "Física 2",
+                                        "Investigación y Pensamiento Científico",
+                                        "Química Orgánica 1",
+                                        "Guatemala en el Contexto Mundial",
+                                        "Circuitos Eléctricos 1",
+                                        "Ecuaciones Diferenciales 1",
+                                        "Cálculo 3",
+                                        "Retos Ambientales y Sostenibilidad",
+                                        "Biomateriales"
+                                    ],
+                                    "Año 3": [
+                                        "Curso Selectivo (Formación General)",
+                                        "Circuitos Eléctricos 2",
+                                        "Electrónica Digital 1",
+                                        "Fisiología Cuantitativa 1",
+                                        "Mecánica Estática y Dinámica",
+                                        "Diseño Mecánico y Mecanismos",
+                                        "Electrónica Analógica 1 (Biomédica)",
+                                        "Emprendimiento e Innovación",
+                                        "Fenómenos de Transporte Biológico e Ingeniería de Tejidos",
+                                        "Fisiología Cuantitativa 2",
+                                        "Bioética, Legislación y Normas de Calidad",
+                                        "Electrónica Digital 2 (Biomédica)"
+                                    ],
+                                    "Año 4": [
+                                        "Instrumentación Biomédica",
+                                        "Análisis de Datos Biomédicos",
+                                        "Curso Selectivo",
+                                        "Electrónica Analógica 2 (Biomédica)",
+                                        "Procesamiento de Señales (Biomédica)",
+                                        "Simulación de Circuitos y Fabricación de PCB (Biomédica)",
+                                        "Economía de Empresas",
+                                        "Regulación y Certificación de Dispositivos Médicos",
+                                        "Introducción a Imágenes Médicas",
+                                        "Curso Selectivo",
+                                        "Gestión de Proyectos",
+                                        "Sistemas de Control 1 (Biomédica)"
+                                    ],
+                                    "Año 5": [
+                                        "Tópicos Avanzados de Ingeniería Biomédica",
+                                        "Ingeniería Económica",
+                                        "Práctica Profesional 1",
+                                        "Sistemas de Control 2 (Biomédica)",
+                                        "Robótica Médica 1",
+                                        "Diseño e Innovación en Ingeniería 1",
+                                        "Curso Selectivo",
+                                        "Diseño e Innovación en Ingeniería 2",
+                                        "Práctica Profesional 2",
+                                        "Trabajo de Graduación",
+                                        "Instalaciones Eléctricas (Biomédica)",
+                                        "Robótica Médica 2"
+                                    ]
+                                }
+                            }
+                        ],
+                        "Contacto": {
+                            "Correo_Electrónico": "info@uvg.edu.gt",
+                            "Teléfono": "+502 2368 8300"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "Informacion Adicional": [
+        "Mejor Universidad de Guatemala",
+        "El rector es Roberto Moreno Godoy",
+        "La hora máxima es a las 9:30pm",
+        "Tiene una beca llamada PotenciaT",
+        "Se encuentra en zona 15",
+        "El maestro de Robótica es Miguel Zea",
+        "El director de Ingeniería Mecatrónica es el ingeniero Carlos Esquit.",
+        "El director de Ingeniería Electrónica es el ingeniero Carlos Esquit.",
+        "Juan Emilio Reyes Orantes tiene carnet 20959",
+        "Juan Emilio Reyes Orantes se gradua en 2024",
+        "Una clase de Ingeniería Mecatrónica es Cálculo #3",
+        "En ingeniería mecatrónica se ve diseño #1",
+        "Ingeniería electrónica se especializa mucho en telecomunicaciones.",
+        "La ingeniería mecatrónica inició en 2007 en la UVG",
+        "El edificio nuevo de la UVG es el CIT",
+        "La universidad del Valle tiene una feria de valores",
+        "Ingeniería Mecatrónica inició en la Universidad del Valle de Guatemala en el año 2009.",
+        "Frank martinez estudiante de ingenieria mecatronica de 5to año, se gradua 2024. Y es fundador del club de atletismo.",
+        "Luis Pedro Garrido es estudiante de la Universidad del Valle quinto año de mecatronica, hizo su tesis de carros autonomos a escala.",
+        "La biblioteca es en el piso 3",
+        "",
+        "Pedro Castillo es un gran catedrático, el cúal estuvo asesorando este trabajo de graduación. Es un ingeníero reconocido en la Universidad del Valle",
+        "Lesly Gomez es la secretaria del departamento de Ingeniería Mecatrónica, electrónica y biomédica",
+        "La Universidad del Valle de Guatemala queda en zona 15 de la ciudad de Guatemala.",
+        "El creador de esta aplicación es Juan Emilio Reyes ",
+        "Kurt Kellner es un asesor de tesis\r\n"
+    ]
+}
